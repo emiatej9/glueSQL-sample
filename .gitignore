@@ -1,0 +1,10 @@
+/target
+
+# IDE
+.idea
+.idea/**
+
+# GlueSQL
+data
+data/**
+
